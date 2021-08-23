@@ -1,0 +1,5 @@
+ImmutableMultiDict([('phrase', 'puk'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36|{'u'}
+ImmutableMultiDict([('phrase', 'mi case'), ('letters', 'e su casa')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36|{'s', 'a', 'e', 'c', ' '}
+ImmutableMultiDict([('phrase', 'ti'), ('letters', 'gavno')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36|set()
+ImmutableMultiDict([('phrase', 'jaba'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36|{'a'}
+ImmutableMultiDict([('phrase', 'fibonacci'), ('letters', 'in')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36|{'i', 'n'}
